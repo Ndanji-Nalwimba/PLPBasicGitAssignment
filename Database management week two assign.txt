@@ -1,0 +1,23 @@
+Database management week two assignment - Ndanji Nalwimba
+1. Definition of Attribute in the Context of a Database:
+In a database, an attribute refers to a characteristic or property of an entity. It represents a specific piece of information that describes an aspect of the entity being modeled. Attributes are the building blocks of database tables, where each attribute corresponds to a column in the table.
+2. Importance of a Unique Identifier in a Database:
+Having a unique identifier for each item in a database is crucial for several reasons:
+It ensures data integrity by preventing duplicate entries.
+It facilitates efficient data retrieval and manipulation, as each item can be uniquely identified.
+It enables relationships and associations between different entities in the database.
+It supports data consistency and accuracy, especially in relational databases where entities are linked through foreign keys.
+It simplifies data management and maintenance tasks, such as updates and deletions.
+3. Examples of Attributes Associated with a "Patient" Entity in a Hospital Database:
+Patient ID
+Name
+Date of Birth
+Gender
+Blood Type
+4. Characteristics that Distinguish One Specific Book from Another:
+ISBN (International Standard Book Number)
+Title
+Author
+5. Difference Between Single-Valued and Multi-Valued Attributes:
+Single-Valued Attribute: A single-valued attribute holds only one value for each instance of an entity. For example, in a "Student" entity, the attribute "Age" would typically be single-valued because a student typically has only one age at any given time.
+Multi-Valued Attribute: A multi-valued attribute can hold multiple values for each instance of an entity. For example, in a "Student" entity, the attribute "Phone Number" could be multi-valued because a student may have multiple phone numbers (e.g., home, mobile, work)
